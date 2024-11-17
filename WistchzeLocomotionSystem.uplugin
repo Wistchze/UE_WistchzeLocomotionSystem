@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"Name": "WistchzeLocomotionSystem",
+	"FriendlyName": "Wistchze Locomotion System",
+	"Description": "This locomotion contains locomotion, traversal, swimming, camera system, etc.",
+	"Category": "Other",
+	"CreatedBy": "Wistchze",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "WistchzeLocomotionSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+	]
+}
