@@ -9,7 +9,7 @@ ULocomotionComponent::ULocomotionComponent()
 	PrimaryComponentTick.bCanEverTick = true;
 
 	// Init Default Assets
-	StrafeSpeedMapCurve = FSoftObjectPath { TEXT("/AnonLocomotion/Data/Curves/CF_StrafeSpeedMap.CF_StrafeSpeedMap") };
+	StrafeSpeedMapCurve = FSoftObjectPath { TEXT("/WistchzeLocomotionSystem/Data/Curves/FC_StrafeSpeedMap.FC_StrafeSpeedMap") };
 }
 
 // ===== Events ===== //

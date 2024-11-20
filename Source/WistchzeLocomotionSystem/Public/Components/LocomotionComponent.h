@@ -24,7 +24,7 @@ public:
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType,
 	                           FActorComponentTickFunction* ThisTickFunction) override;
 
-	/** Called after possessed by or anytime when the controller is changed */
+	/** Called after possessed by or anytime when the controller is changed. */
 	UFUNCTION()
 	void PossessedBy(APawn* Pawn, AController* OldController, AController* NewController);
 	
